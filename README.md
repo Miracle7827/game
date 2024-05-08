@@ -1,3 +1,3 @@
 俄羅斯方塊
 以下網址:
-https://miracle7827.github.io/game/index.html
+https://miracle7827.github.io/game/react-tetris-master/doce/index.html
